@@ -1,0 +1,7 @@
+
+public class packageDemo {
+	
+	//learn more about Java packages from below link
+	//http://www.guru99.com/java-packages.html
+
+}
